@@ -1,0 +1,6 @@
+sheet_number,title,discipline,owner,required_revision
+A-101,Floor Plan,Architectural Drawings,Sample Architecture Team,B
+A-102,Roof Plan,Architectural Drawings,Sample Architecture Team,A
+EC-101,Existing Conditions Plan,Existing Conditions,,A
+EC-101,Existing Conditions Plan,Existing Conditions,Sample Existing Conditions Team,A
+SV-101,Boundary Survey,Survey,Sample Survey Team,C

@@ -1,0 +1,5 @@
+{
+  "patterns": [
+    "(?i)(?P<sheet_number>[a-z]+-[0-9]+[a-z]?)_[^_]+(?:_[^_]+)*_Rev(?P<revision>[a-z0-9]+)\\.pdf"
+  ]
+}
